@@ -1,2 +1,2 @@
 # securecomputing
-HIPAA compliance on the AWS public cloud
+HIPAA compliance on various public clouds
